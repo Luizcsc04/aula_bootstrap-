@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(186, 235, 218);
+}
+.quem-somos {
+    background-color: rgb(238, 160, 57);
+    color: white;
+}
+.padding {
+    padding-top: 50px;
+    padding-top: 50px;
+}
+.my-footer {
+    background-color: yellowgreen;
+    color: red;
+}
